@@ -1,5 +1,8 @@
 README
 
+Commit IV 03JAN2011
+Added some perl code to perform my perferred re-arrangement.  Basic for loop to rearrange, and then re-utilized the chunk of code frew wrote to rearrange them a little more.  Unfortunately now I'm getting errors with the fix I used on the buffer overflow.  Seems to be a problem with the template, not sure why it's getting confused...
+
 Commit III  14NOV2010
 Discovered a bug where Latex has a buffer overrun, fixed using a latex command that forces latex to place stuff before it gets to the end of the document, changed template to accomplish this
 
