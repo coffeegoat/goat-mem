@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.16)  3 JAN 2011 16:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.16)  3 JAN 2011 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -161,7 +161,7 @@ Package: placeins 2005/04/18  v 2.2
 
 *
 (Please type a command or say `\end')
-*\begin{document}
+*\begin{document}\FloatBarrier
 (./texput.aux)
 \openout1 = `texput.aux'.
 
@@ -403,6 +403,69 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
+* Monday\vspace{1.75cm} &Review Chapter 8 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &Review Chapter 9 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &Review Chapter 10 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &Review Chapter 11 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &Review Chapter 12 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} &Review Chapter 13 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Chapter 14 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
 * Monday\vspace{1.75cm} &14 Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas
 , and the brothers who are with them. 15 Greet Philologus, Julia, Nereus and hi
 s sister, and Olympas, and all the saints who are with them. 16 Greet one anoth
@@ -469,9 +532,9 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
+*\FloatBarrier
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+*\begin{table}[t] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -479,60 +542,37 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-* Monday\vspace{1.75cm} &22 This is the reason why I have so often been hindere
-d from coming to you. 23 But now, since I no longer have any room for work in t
-hese regions, and since I have longed for many years to come to you,  \\
+* Monday\vspace{1.75cm} &Review Chapter 15 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &24 I hope to see you in passing as I go to Spain, and
- to be helped on my journey there by you, once I have enjoyed your company for 
-a while. 25 At present, however, I am going to Jerusalem bringing aid to the sa
-ints.  \\
+* Tuesday\vspace{1.75cm} &Review Chapter 16 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &26 For Macedonia and Achaia have been pleased to ma
-ke some contribution for the poor among the saints at Jerusalem. 27 For they we
-re pleased to do it, and indeed they owe it to them. For if the Gentiles have c
-ome to share in their spiritual blessings, they ought also to be of service to 
-them in material blessings.  \\
+* Wednesday\vspace{1.75cm} &Review Chapter 1-5 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &28 When therefore I have completed this and have del
-ivered to them what has been collected, I will leave for Spain by way of you. 2
-9 I know that when I come to you I will come in the fullness of the blessing of
- Christ. \\
+* Thursday\vspace{1.75cm} &Review Chapter 6-10 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Friday\vspace{1.75cm} &30 I appeal to you, brothers, by our Lord Jesus Christ
- and by the love of the Spirit, to strive together with me in your prayers to G
-od on my behalf, 31 that I may be delivered from the unbelievers in Judea, and 
-that my service for Jerusalem may be acceptable to the saints,  \\
+* Friday\vspace{1.75cm} &Review Chapter 11-16 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &32 so that by God's will I may come to you with joy 
-and be refreshed in your company. 33 May the God of peace be with you all. Amen
-. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 42 \\
+* Saturday\vspace{1.75cm} &CELBRATE!!!!!! \\
 
 *\hline
 
@@ -551,8 +591,6 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 *\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
@@ -561,59 +599,43 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-* Monday\vspace{1.75cm} &16:1 I commend to you our sister Phoebe, a servant of 
-the church at Cenchreae, 2 that you may welcome her in the Lord in a way worthy
- of the saints, and help her in whatever she may need from you, for she has bee
-n a patron of many and of myself as well. \\
+* Monday\vspace{1.75cm} &Review Chapter 1 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &3 Greet Prisca and Aquila, my fellow workers in Chris
-t Jesus, 4 who risked their necks for my life, to whom not only I give thanks b
-ut all the churches of the Gentiles give thanks as well. 5 Greet also the churc
-h in their house. Greet my beloved Epaenetus, who was the first convert to Chri
-st in Asia.  \\
+* Tuesday\vspace{1.75cm} &Review Chapter 2 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &6 Greet Mary, who has worked hard for you. 7 Greet 
-Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known t
-o the apostles, and they were in Christ before me. 8 Greet Ampliatus, my belove
-d in the Lord. \\
+* Wednesday\vspace{1.75cm} &Review Chapter 3 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &9 Greet Urbanus, our fellow worker in Christ, and my
- beloved Stachys. 10 Greet Apelles, who is approved in Christ. Greet those who 
-belong to the family of Aristobulus. 11 Greet my kinsman Herodion. Greet those 
-in the Lord who belong to the family of Narcissus. \\
+* Thursday\vspace{1.75cm} &Review Chapter 4 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Friday\vspace{1.75cm} &12 Greet those workers in the Lord, Tryphaena and Tryp
-hosa. Greet the beloved Persis, who has worked hard in the Lord. 13 Greet Rufus
-, chosen in the Lord; also his mother, who has been a mother to me as well.  \\
-
+* Friday\vspace{1.75cm} &Review Chapter 5 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &Review Week 31 \\
+* Saturday\vspace{1.75cm} &Review Chapter 6 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 43 \\
+* Sunday\vspace{0.1cm} &Review Chapter 7 \\
 
 *\hline
 
@@ -788,8 +810,6 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
 *\FloatBarrier
 [2]
 *\begin{table}[t] \footnotesize
@@ -951,6 +971,86 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
+* Monday\vspace{1.75cm} &22 This is the reason why I have so often been hindere
+d from coming to you. 23 But now, since I no longer have any room for work in t
+hese regions, and since I have longed for many years to come to you,  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &24 I hope to see you in passing as I go to Spain, and
+ to be helped on my journey there by you, once I have enjoyed your company for 
+a while. 25 At present, however, I am going to Jerusalem bringing aid to the sa
+ints.  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &26 For Macedonia and Achaia have been pleased to ma
+ke some contribution for the poor among the saints at Jerusalem. 27 For they we
+re pleased to do it, and indeed they owe it to them. For if the Gentiles have c
+ome to share in their spiritual blessings, they ought also to be of service to 
+them in material blessings.  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &28 When therefore I have completed this and have del
+ivered to them what has been collected, I will leave for Spain by way of you. 2
+9 I know that when I come to you I will come in the fullness of the blessing of
+ Christ. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &30 I appeal to you, brothers, by our Lord Jesus Christ
+ and by the love of the Spirit, to strive together with me in your prayers to G
+od on my behalf, 31 that I may be delivered from the unbelievers in Judea, and 
+that my service for Jerusalem may be acceptable to the saints,  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} &32 so that by God's will I may come to you with joy 
+and be refreshed in your company. 33 May the God of peace be with you all. Amen
+. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 42 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
 * Monday\vspace{1.75cm} &15:1 We who are strong have an obligation to bear with
  the failings of the weak, and not to please ourselves. 2 Let each of us please
  his neighbor for his good, to build him up. 3 For Christ did not please himsel
@@ -1020,9 +1120,9 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
+*\FloatBarrier
+[3]
+*\begin{table}[t] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -1030,61 +1130,59 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-* Monday\vspace{1.75cm} &14:1 As for the one who is weak in faith, welcome him,
- but not to quarrel over opinions. 2 One person believes he may eat anything, w
-hile the weak person eats only vegetables. 3 Let not the one who eats despise t
-he one who abstains, and let not the one who abstains pass judgment on the one 
-who eats, for God has welcomed him. \\
+* Monday\vspace{1.75cm} &16:1 I commend to you our sister Phoebe, a servant of 
+the church at Cenchreae, 2 that you may welcome her in the Lord in a way worthy
+ of the saints, and help her in whatever she may need from you, for she has bee
+n a patron of many and of myself as well. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} & 4 Who are you to pass judgment on the servant of ano
-ther? It is before his own master that he stands or falls. And he will be uphel
-d, for the Lord is able to make him stand. 5 One person esteems one day as bett
-er than another, while another esteems all days alike. Each one should be fully
- convinced in his own mind. \\
+* Tuesday\vspace{1.75cm} &3 Greet Prisca and Aquila, my fellow workers in Chris
+t Jesus, 4 who risked their necks for my life, to whom not only I give thanks b
+ut all the churches of the Gentiles give thanks as well. 5 Greet also the churc
+h in their house. Greet my beloved Epaenetus, who was the first convert to Chri
+st in Asia.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} & 6 The one who observes the day, observes it in hon
-or of the Lord. The one who eats, eats in honor of the Lord, since he gives tha
-nks to God, while the one who abstains, abstains in honor of the Lord and gives
- thanks to God. \\
+* Wednesday\vspace{1.75cm} &6 Greet Mary, who has worked hard for you. 7 Greet 
+Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known t
+o the apostles, and they were in Christ before me. 8 Greet Ampliatus, my belove
+d in the Lord. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Thursday\vspace{1.75cm} & 7 For none of us lives to himself, and none of us d
-ies to himself. 8 For if we live, we live to the Lord, and if we die, we die to
- the Lord. So then, whether we live or whether we die, we are the Lord's.  \\
+* Thursday\vspace{1.75cm} &9 Greet Urbanus, our fellow worker in Christ, and my
+ beloved Stachys. 10 Greet Apelles, who is approved in Christ. Greet those who 
+belong to the family of Aristobulus. 11 Greet my kinsman Herodion. Greet those 
+in the Lord who belong to the family of Narcissus. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Friday\vspace{1.75cm} &9 For to this end Christ died and lived again, that he
- might be Lord both of the dead and of the living. 10 Why do you pass judgment 
-on your brother? Or you, why do you despise your brother? For we will all stand
- before the judgment seat of God; \\
+* Friday\vspace{1.75cm} &12 Greet those workers in the Lord, Tryphaena and Tryp
+hosa. Greet the beloved Persis, who has worked hard in the Lord. 13 Greet Rufus
+, chosen in the Lord; also his mother, who has been a mother to me as well.  \\
+
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Saturday\vspace{1.75cm} & 11 for it is written, “As I live, says the Lord, 
-every knee shall bow to me, and every tongue shall confess  to God.” 12 So th
-en each of us will give an account of himself to God. \\
+* Saturday\vspace{1.75cm} &Review Week 31 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 38 \\
+* Sunday\vspace{0.1cm} &Review Week 43 \\
 
 *\hline
 
@@ -1103,9 +1201,7 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[3]
-*\begin{table}[t] \footnotesize
+*\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -1166,85 +1262,6 @@ ee, and those who have never heard will understand.”  \\
 *
 (Please type a command or say `\end')
 * Sunday\vspace{0.1cm} &Review Week 41 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-*
-(Please type a command or say `\end')
-*\end{tabular}
-
-*\end{table}
-
-Overfull \hbox (9.54619pt too wide) detected at line 0
-[][] 
- []
-
-
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
-
-*\begin{tabular}{p{.6in}|p{2.95in}}
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Monday\vspace{1.75cm} &13 Therefore let us not pass judgment on one another a
-ny longer, but rather decide never to put a stumbling block or hindrance in the
- way of a brother. 14 I know and am persuaded in the Lord Jesus that nothing is
- unclean in itself, but it is unclean for anyone who thinks it unclean. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &15 For if your brother is grieved by what you eat, yo
-u are no longer walking in love. By what you eat, do not destroy the one for wh
-om Christ died. 16 So do not let what you regard as good be spoken of as evil. 
-\\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &17 For the kingdom of God is not a matter of eating
- and drinking but of righteousness and peace and joy in the Holy Spirit. 18 Who
-ever thus serves Christ is acceptable to God and approved by men.  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &19 So then let us pursue what makes for peace and fo
-r mutual upbuilding. 20 Do not, for the sake of food, destroy the work of God. 
-Everything is indeed clean, but it is wrong for anyone to make another stumble 
-by what he eats.  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Friday\vspace{1.75cm} &21 It is good not to eat meat or drink wine or do anyt
-hing that causes your brother to stumble. 22 The faith that you have, keep betw
-een yourself and God. Blessed is the one who has no reason to pass judgment on 
-himself for what he approves. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Saturday\vspace{1.75cm} & 23 But whoever has doubts is condemned if he eats, 
-because the eating is not from faith. For whatever does not proceed from faith 
-is sin. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 39 \\
 
 *\hline
 
@@ -1414,8 +1431,6 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
 *\FloatBarrier
 [4]
 *\begin{table}[t] \footnotesize
@@ -1574,6 +1589,87 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
+* Monday\vspace{1.75cm} &14:1 As for the one who is weak in faith, welcome him,
+ but not to quarrel over opinions. 2 One person believes he may eat anything, w
+hile the weak person eats only vegetables. 3 Let not the one who eats despise t
+he one who abstains, and let not the one who abstains pass judgment on the one 
+who eats, for God has welcomed him. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} & 4 Who are you to pass judgment on the servant of ano
+ther? It is before his own master that he stands or falls. And he will be uphel
+d, for the Lord is able to make him stand. 5 One person esteems one day as bett
+er than another, while another esteems all days alike. Each one should be fully
+ convinced in his own mind. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} & 6 The one who observes the day, observes it in hon
+or of the Lord. The one who eats, eats in honor of the Lord, since he gives tha
+nks to God, while the one who abstains, abstains in honor of the Lord and gives
+ thanks to God. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} & 7 For none of us lives to himself, and none of us d
+ies to himself. 8 For if we live, we live to the Lord, and if we die, we die to
+ the Lord. So then, whether we live or whether we die, we are the Lord's.  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &9 For to this end Christ died and lived again, that he
+ might be Lord both of the dead and of the living. 10 Why do you pass judgment 
+on your brother? Or you, why do you despise your brother? For we will all stand
+ before the judgment seat of God; \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} & 11 for it is written, “As I live, says the Lord, 
+every knee shall bow to me, and every tongue shall confess  to God.” 12 So th
+en each of us will give an account of himself to God. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 38 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
 * Monday\vspace{1.75cm} &13:1 Let every person be subject to the governing auth
 orities. For there is no authority except from God, and those that exist have b
 een instituted by God. 2 Therefore whoever resists the authorities resists what
@@ -1640,9 +1736,9 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
+*\FloatBarrier
+[5]
+*\begin{table}[t] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -1650,57 +1746,59 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-* Monday\vspace{1.75cm} &12:1 I appeal to you therefore, brothers, by the merci
-es of God, to present your bodies as a living sacrifice, holy and acceptable to
- God, which is your spiritual worship. \\
+* Monday\vspace{1.75cm} &13 Therefore let us not pass judgment on one another a
+ny longer, but rather decide never to put a stumbling block or hindrance in the
+ way of a brother. 14 I know and am persuaded in the Lord Jesus that nothing is
+ unclean in itself, but it is unclean for anyone who thinks it unclean. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &2 Do not be conformed to this world, [3] but be trans
-formed by the renewal of your mind, that by testing you may discern what is the
- will of God, what is good and acceptable and perfect. \\
+* Tuesday\vspace{1.75cm} &15 For if your brother is grieved by what you eat, yo
+u are no longer walking in love. By what you eat, do not destroy the one for wh
+om Christ died. 16 So do not let what you regard as good be spoken of as evil. 
+\\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &3 For by the grace given to me I say to everyone am
-ong you not to think of himself more highly than he ought to think, but to thin
-k with sober judgment, each according to the measure of faith that God has assi
-gned. 4 For as in one body we have many members,  and the members do not all ha
-ve the same function, \\
+* Wednesday\vspace{1.75cm} &17 For the kingdom of God is not a matter of eating
+ and drinking but of righteousness and peace and joy in the Holy Spirit. 18 Who
+ever thus serves Christ is acceptable to God and approved by men.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &5 so we, though many, are one body in Christ, and in
-dividually members one of another. 6 Having gifts that differ according to the 
-grace given to us, let us use them: if prophecy, in proportion to our faith; \\
-
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Friday\vspace{1.75cm} &7 if service, in our serving; the one who teaches, in 
-his teaching; 8 the one who exhorts, in his exhortation; the one who contribute
-s, in generosity; the one who leads, with zeal; the one who does acts of mercy,
- with cheerfulness. \\
+* Thursday\vspace{1.75cm} &19 So then let us pursue what makes for peace and fo
+r mutual upbuilding. 20 Do not, for the sake of food, destroy the work of God. 
+Everything is indeed clean, but it is wrong for anyone to make another stumble 
+by what he eats.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &Review Week 25 \\
+* Friday\vspace{1.75cm} &21 It is good not to eat meat or drink wine or do anyt
+hing that causes your brother to stumble. 22 The faith that you have, keep betw
+een yourself and God. Blessed is the one who has no reason to pass judgment on 
+himself for what he approves. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Reiew Week 34 \\
+* Saturday\vspace{1.75cm} & 23 But whoever has doubts is condemned if he eats, 
+because the eating is not from faith. For whatever does not proceed from faith 
+is sin. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 39 \\
 
 *\hline
 
@@ -1719,9 +1817,7 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[5]
-*\begin{table}[t] \footnotesize
+*\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -1776,84 +1872,6 @@ ovision for the flesh, to gratify its desires. \\
 *
 (Please type a command or say `\end')
 * Sunday\vspace{0.1cm} &Review Week 37 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-*
-(Please type a command or say `\end')
-*\end{tabular}
-
-*\end{table}
-
-Overfull \hbox (9.54619pt too wide) detected at line 0
-[][] 
- []
-
-
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
-
-*\begin{tabular}{p{.6in}|p{2.95in}}
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Monday\vspace{1.75cm} &9 Let love be genuine. Abhor what is evil; hold fast t
-o what is good. 10 Love one another with brotherly affection. Outdo one another
- in showing honor. 11 Do not be slothful in zeal, be fervent in spirit, serve t
-he Lord. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &12 Rejoice in hope, be patient in tribulation, be con
-stant in prayer. 13 Contribute to the needs of the saints and seek to show hosp
-itality. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &14 Bless those who persecute you; bless and do not 
-curse them. 15 Rejoice with those who rejoice, weep with those who weep. 16 Liv
-e in harmony with one another. Do not be haughty, but associate with the lowly.
- Never be wise in your own sight.  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &17 Repay no one evil for evil, but give thought to d
-o what is honorable in the sight of all. 18 If possible, so far as it depends o
-n you, live peaceably with all.  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Friday\vspace{1.75cm} &19 Beloved, never avenge yourselves, but leave it to t
-he wrath of God, for it is written, “Vengeance is mine, I will repay, says th
-e Lord.” 20 To the contrary, “if your enemy is hungry, feed him; if he is t
-hirsty, give him something to drink; for by so doing you will heap burning coal
-s on his head.” \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &21 Do not be overcome by evil, but overcome evil wit
-h good. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 35 \\
 
 *\hline
 
@@ -2020,8 +2038,6 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
 *\FloatBarrier
 [6]
 *\begin{table}[t] \footnotesize
@@ -2190,6 +2206,83 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
+* Monday\vspace{1.75cm} &12:1 I appeal to you therefore, brothers, by the merci
+es of God, to present your bodies as a living sacrifice, holy and acceptable to
+ God, which is your spiritual worship. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &2 Do not be conformed to this world, [3] but be trans
+formed by the renewal of your mind, that by testing you may discern what is the
+ will of God, what is good and acceptable and perfect. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &3 For by the grace given to me I say to everyone am
+ong you not to think of himself more highly than he ought to think, but to thin
+k with sober judgment, each according to the measure of faith that God has assi
+gned. 4 For as in one body we have many members,  and the members do not all ha
+ve the same function, \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &5 so we, though many, are one body in Christ, and in
+dividually members one of another. 6 Having gifts that differ according to the 
+grace given to us, let us use them: if prophecy, in proportion to our faith; \\
+
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &7 if service, in our serving; the one who teaches, in 
+his teaching; 8 the one who exhorts, in his exhortation; the one who contribute
+s, in generosity; the one who leads, with zeal; the one who does acts of mercy,
+ with cheerfulness. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} &Review Week 25 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Reiew Week 34 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
 * Monday\vspace{1.75cm} &21 For if God did not spare the natural branches, neit
 her will he spare you. 22 Note then the kindness and the severity of God: sever
 ity toward those who have fallen, but God's kindness to you, provided you conti
@@ -2259,9 +2352,9 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
+*\FloatBarrier
+[7]
+*\begin{table}[t] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -2269,57 +2362,58 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-* Monday\vspace{1.75cm} &11:1 I ask, then, has God rejected his people? By no m
-eans! For I myself am an Israelite, a descendant of Abraham, a member of the tr
-ibe of Benjamin. 2 God has not rejected his people whom he foreknew. Do you not
- know what the Scripture says of Elijah, how he appeals to God against Israel? 
-\\
+* Monday\vspace{1.75cm} &9 Let love be genuine. Abhor what is evil; hold fast t
+o what is good. 10 Love one another with brotherly affection. Outdo one another
+ in showing honor. 11 Do not be slothful in zeal, be fervent in spirit, serve t
+he Lord. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &3 “Lord, they have killed your prophets, they have 
-demolished your altars, and I alone am left, and they seek my life.” 4 But wh
-at is God's reply to him? “I have kept for myself seven thousand men who have
- not bowed the knee to Baal.” \\
+* Tuesday\vspace{1.75cm} &12 Rejoice in hope, be patient in tribulation, be con
+stant in prayer. 13 Contribute to the needs of the saints and seek to show hosp
+itality. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &5 So too at the present time there is a remnant, ch
-osen by grace. 6 But if it is by grace, it is no longer on the basis of works; 
-otherwise grace would no longer be grace. \\
+* Wednesday\vspace{1.75cm} &14 Bless those who persecute you; bless and do not 
+curse them. 15 Rejoice with those who rejoice, weep with those who weep. 16 Liv
+e in harmony with one another. Do not be haughty, but associate with the lowly.
+ Never be wise in your own sight.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &7 What then? Israel failed to obtain what it was see
-king. The elect obtained it, but the rest were hardened, 8 as it is written, �
-�God gave them a spirit of stupor, eyes that would not see and ears that would 
-not hear, down to this very day.” \\
+* Thursday\vspace{1.75cm} &17 Repay no one evil for evil, but give thought to d
+o what is honorable in the sight of all. 18 If possible, so far as it depends o
+n you, live peaceably with all.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Friday\vspace{1.75cm} &9 And David says, “Let their table become a snare an
-d a trap, a stumbling block and a retribution for them; 10 let their eyes be da
-rkened so that they cannot see, and bend their backs forever.” \\
+* Friday\vspace{1.75cm} &19 Beloved, never avenge yourselves, but leave it to t
+he wrath of God, for it is written, “Vengeance is mine, I will repay, says th
+e Lord.” 20 To the contrary, “if your enemy is hungry, feed him; if he is t
+hirsty, give him something to drink; for by so doing you will heap burning coal
+s on his head.” \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &Review Week 22 \\
+* Saturday\vspace{1.75cm} &21 Do not be overcome by evil, but overcome evil wit
+h good. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 30 \\
+* Sunday\vspace{0.1cm} &Review Week 35 \\
 
 *\hline
 
@@ -2338,9 +2432,7 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[7]
-*\begin{table}[t] \footnotesize
+*\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -2392,85 +2484,6 @@ be repaid?” 36 For from him and through him and to him are all things. To him
 *
 (Please type a command or say `\end')
 * Sunday\vspace{0.1cm} &Review Week 33 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-*
-(Please type a command or say `\end')
-*\end{tabular}
-
-*\end{table}
-
-Overfull \hbox (9.54619pt too wide) detected at line 0
-[][] 
- []
-
-
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
-
-*\begin{tabular}{p{.6in}|p{2.95in}}
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Monday\vspace{1.75cm} &11 So I ask, did they stumble in order that they might
- fall? By no means! Rather through their trespass salvation has come to the Gen
-tiles, so as to make Israel jealous. 12 Now if their trespass means riches for 
-the world, and if their failure means riches for the Gentiles, how much more wi
-ll their full inclusion mean! \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &13 Now I am speaking to you Gentiles. Inasmuch then a
-s I am an apostle to the Gentiles, I magnify my ministry 14 in order somehow to
- make my fellow Jews jealous, and thus save some of them.  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &15 For if their rejection means the reconciliation 
-of the world, what will their acceptance mean but life from the dead? 16 If the
- dough offered as firstfruits is holy, so is the whole lump, and if the root is
- holy, so are the branches. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &17 But if some of the branches were broken off, and 
-you, although a wild olive shoot, were grafted in among the others and now shar
-e in the nourishing root  of the olive tree, 18 do not be arrogant toward the b
-ranches. If you are, remember it is not you who support the root, but the root 
-that supports you. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Friday\vspace{1.75cm} &19 Then you will say, “Branches were broken off so t
-hat I might be grafted in.” 20 That is true. They were broken off because of 
-their unbelief, but you stand fast through faith. So do not become proud, but f
-ear.  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &Review Week 23 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 31 \\
 
 *\hline
 
@@ -2642,8 +2655,6 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
 *\FloatBarrier
 [8]
 *\begin{table}[t] \footnotesize
@@ -2803,6 +2814,83 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
+* Monday\vspace{1.75cm} &11:1 I ask, then, has God rejected his people? By no m
+eans! For I myself am an Israelite, a descendant of Abraham, a member of the tr
+ibe of Benjamin. 2 God has not rejected his people whom he foreknew. Do you not
+ know what the Scripture says of Elijah, how he appeals to God against Israel? 
+\\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &3 “Lord, they have killed your prophets, they have 
+demolished your altars, and I alone am left, and they seek my life.” 4 But wh
+at is God's reply to him? “I have kept for myself seven thousand men who have
+ not bowed the knee to Baal.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &5 So too at the present time there is a remnant, ch
+osen by grace. 6 But if it is by grace, it is no longer on the basis of works; 
+otherwise grace would no longer be grace. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &7 What then? Israel failed to obtain what it was see
+king. The elect obtained it, but the rest were hardened, 8 as it is written, �
+�God gave them a spirit of stupor, eyes that would not see and ears that would 
+not hear, down to this very day.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &9 And David says, “Let their table become a snare an
+d a trap, a stumbling block and a retribution for them; 10 let their eyes be da
+rkened so that they cannot see, and bend their backs forever.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} &Review Week 22 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 30 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
 * Monday\vspace{1.75cm} &10:1 Brothers, my heart's desire and prayer to God for
  them is that they may be saved. 2 For I bear them witness that they have a zea
 l for God, but not according to knowledge.  \\
@@ -2870,9 +2958,9 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
+*\FloatBarrier
+[9]
+*\begin{table}[t] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -2880,57 +2968,59 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-* Monday\vspace{1.75cm} &11 though they were not yet born and had done nothing 
-either good or bad—in order that God's purpose of election might continue, no
-t because of works but because of him who calls— 12 she was told, “The olde
-r will serve the younger.” 13 As it is written, “Jacob I loved, but Esau I 
-hated.” \\
+* Monday\vspace{1.75cm} &11 So I ask, did they stumble in order that they might
+ fall? By no means! Rather through their trespass salvation has come to the Gen
+tiles, so as to make Israel jealous. 12 Now if their trespass means riches for 
+the world, and if their failure means riches for the Gentiles, how much more wi
+ll their full inclusion mean! \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &14 What shall we say then? Is there injustice on God'
-s part? By no means! 15 For he says to Moses, “I will have mercy on whom I ha
-ve mercy, and I will have compassion on whom I have compassion.” \\
+* Tuesday\vspace{1.75cm} &13 Now I am speaking to you Gentiles. Inasmuch then a
+s I am an apostle to the Gentiles, I magnify my ministry 14 in order somehow to
+ make my fellow Jews jealous, and thus save some of them.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &16 So then it depends not on human will or exertion
-, but on God, who has mercy. 17 For the Scripture says to Pharaoh, “For this 
-very purpose I have raised you up, that I might show my power in you, and that 
-my name might be proclaimed in all the earth.”  \\
+* Wednesday\vspace{1.75cm} &15 For if their rejection means the reconciliation 
+of the world, what will their acceptance mean but life from the dead? 16 If the
+ dough offered as firstfruits is holy, so is the whole lump, and if the root is
+ holy, so are the branches. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &18 So then he has mercy on whomever he wills, and he
- hardens whomever he wills. 19 You will say to me then, “Why does he still fi
-nd fault? For who can resist his will?” \\
+* Thursday\vspace{1.75cm} &17 But if some of the branches were broken off, and 
+you, although a wild olive shoot, were grafted in among the others and now shar
+e in the nourishing root  of the olive tree, 18 do not be arrogant toward the b
+ranches. If you are, remember it is not you who support the root, but the root 
+that supports you. \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Friday\vspace{1.75cm} &20 But who are you, O man, to answer back to God? Will
- what is molded say to its molder, “Why have you made me like this?” 21 Has
- the potter no right over the clay, to make out of the same lump one vessel for
- honorable use and another for dishonorable use?  \\
+* Friday\vspace{1.75cm} &19 Then you will say, “Branches were broken off so t
+hat I might be grafted in.” 20 That is true. They were broken off because of 
+their unbelief, but you stand fast through faith. So do not become proud, but f
+ear.  \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &Review Week 20 \\
+* Saturday\vspace{1.75cm} &Review Week 23 \\
 
 *\hline
 
 *
 (Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 26 \\
+* Sunday\vspace{0.1cm} &Review Week 31 \\
 
 *\hline
 
@@ -2949,9 +3039,7 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[9]
-*\begin{table}[t] \footnotesize
+*\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -3013,88 +3101,6 @@ d out my hands to a disobedient and contrary people.” \\
 *
 (Please type a command or say `\end')
 * Sunday\vspace{0.1cm} &Review Week 29 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-*
-(Please type a command or say `\end')
-*\end{tabular}
-
-*\end{table}
-
-Overfull \hbox (9.54619pt too wide) detected at line 0
-[][] 
- []
-
-
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
-
-*\begin{tabular}{p{.6in}|p{2.95in}}
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Monday\vspace{1.75cm} &22 What if God, desiring to show his wrath and to make
- known his power, has endured with much patience vessels of wrath prepared for 
-destruction, 23 in order to make known the riches of his glory for vessels of m
-ercy, which he has prepared beforehand for glory— \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &24 even us whom he has called, not from the Jews only
- but also from the Gentiles? 25 As indeed he says in Hosea, “Those who were n
-ot my people I will call ‘my people,’ and her who was not beloved I will ca
-ll ‘beloved.’” \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &26 “And in the very place where it was said to th
-em, ‘You are not my people,’ there they will be called ‘sons of the livin
-g God.’” 27 And Isaiah cries out concerning Israel: “Though the number of
- the sons of Israel be as the sand of the sea, only a remnant of them will be s
-aved,  \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &28 for the Lord will carry out his sentence upon the
- earth fully and without delay.” 29 And as Isaiah predicted, “If the Lord o
-f hosts had not left us offspring, we would have been like Sodom and become lik
-e Gomorrah.” \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Friday\vspace{1.75cm} &30 What shall we say, then? That Gentiles who did not 
-pursue righteousness have attained it, that is, a righteousness that is by fait
-h; 31 but that Israel who pursued a law that would lead to righteousness did no
-t succeed in reaching that law. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Saturday\vspace{1.75cm} & 32 Why? Because they did not pursue it by faith, bu
-t as if it were based on works. They have stumbled over the stumbling stone, 33
- as it is written, “Behold, I am laying in Zion a stone of stumbling, and a r
-ock of offense; and whoever believes in him will not be put to shame.” \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review Week 27 \\
 
 *\hline
 
@@ -3259,8 +3265,6 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
  []
 
 
-*
-(Please type a command or say `\end')
 *\FloatBarrier
 [10]
 *\begin{table}[t] \footnotesize
@@ -3340,7 +3344,7 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\begin{table}[t] \footnotesize
+*\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -3418,22 +3422,244 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[11
-
-
-
-
-
-
-
-
-
-
-
-
-]
 *\begin{table}[t] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Monday\vspace{1.75cm} &11 though they were not yet born and had done nothing 
+either good or bad—in order that God's purpose of election might continue, no
+t because of works but because of him who calls— 12 she was told, “The olde
+r will serve the younger.” 13 As it is written, “Jacob I loved, but Esau I 
+hated.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &14 What shall we say then? Is there injustice on God'
+s part? By no means! 15 For he says to Moses, “I will have mercy on whom I ha
+ve mercy, and I will have compassion on whom I have compassion.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &16 So then it depends not on human will or exertion
+, but on God, who has mercy. 17 For the Scripture says to Pharaoh, “For this 
+very purpose I have raised you up, that I might show my power in you, and that 
+my name might be proclaimed in all the earth.”  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &18 So then he has mercy on whomever he wills, and he
+ hardens whomever he wills. 19 You will say to me then, “Why does he still fi
+nd fault? For who can resist his will?” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &20 But who are you, O man, to answer back to God? Will
+ what is molded say to its molder, “Why have you made me like this?” 21 Has
+ the potter no right over the clay, to make out of the same lump one vessel for
+ honorable use and another for dishonorable use?  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} &Review Week 20 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 26 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Monday\vspace{1.75cm} &30 And those whom he predestined he also called, and t
+hose whom he called he also justified, and those whom he justified he also glor
+ified. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &31 What then shall we say to these things? If God is 
+for us, who can be against us? 32 He who did not spare his own Son but gave him
+ up for us all, how will he not also with him graciously give us all things? \\
+
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &33 Who shall bring any charge against God's elect? 
+It is God who justifies. 34 Who is to condemn? Christ Jesus is the one who died
+—more than that, who was raised—who is at the right hand of God, who indeed
+ is interceding for us. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &35 Who shall separate us from the love of Christ? Sh
+all tribulation, or distress, or persecution, or famine, or nakedness, or dange
+r, or sword? 36 As it is written, “For your sake we are being killed all the 
+day long; we are regarded as sheep to be slaughtered.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &37 No, in all these things we are more than conquerors
+ through him who loved us. 38 For I am sure that neither death nor life, nor an
+gels nor rulers, nor things present nor things to come, nor powers, 39 nor heig
+ht nor depth, nor anything else in all creation, will be able to separate us fr
+om the love of God in Christ Jesus our Lord. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} &Review Week 18 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 24 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*\FloatBarrier
+[11]
+*\begin{table}[t] \footnotesize
+
+*\begin{tabular}{p{.6in}|p{2.95in}}
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Monday\vspace{1.75cm} &22 What if God, desiring to show his wrath and to make
+ known his power, has endured with much patience vessels of wrath prepared for 
+destruction, 23 in order to make known the riches of his glory for vessels of m
+ercy, which he has prepared beforehand for glory— \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Tuesday\vspace{1.75cm} &24 even us whom he has called, not from the Jews only
+ but also from the Gentiles? 25 As indeed he says in Hosea, “Those who were n
+ot my people I will call ‘my people,’ and her who was not beloved I will ca
+ll ‘beloved.’” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Wednesday\vspace{1.75cm} &26 “And in the very place where it was said to th
+em, ‘You are not my people,’ there they will be called ‘sons of the livin
+g God.’” 27 And Isaiah cries out concerning Israel: “Though the number of
+ the sons of Israel be as the sand of the sea, only a remnant of them will be s
+aved,  \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Thursday\vspace{1.75cm} &28 for the Lord will carry out his sentence upon the
+ earth fully and without delay.” 29 And as Isaiah predicted, “If the Lord o
+f hosts had not left us offspring, we would have been like Sodom and become lik
+e Gomorrah.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Friday\vspace{1.75cm} &30 What shall we say, then? That Gentiles who did not 
+pursue righteousness have attained it, that is, a righteousness that is by fait
+h; 31 but that Israel who pursued a law that would lead to righteousness did no
+t succeed in reaching that law. \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Saturday\vspace{1.75cm} & 32 Why? Because they did not pursue it by faith, bu
+t as if it were based on works. They have stumbled over the stumbling stone, 33
+ as it is written, “Behold, I am laying in Zion a stone of stumbling, and a r
+ock of offense; and whoever believes in him will not be put to shame.” \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+* Sunday\vspace{0.1cm} &Review Week 27 \\
+
+*\hline
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end{tabular}
+
+*\end{table}
+
+Overfull \hbox (9.54619pt too wide) detected at line 0
+[][] 
+ []
+
+
+*
+(Please type a command or say `\end')
+*\begin{table}[b] \footnotesize
 
 *\begin{tabular}{p{.6in}|p{2.95in}}
 
@@ -3492,84 +3718,6 @@ ut also when Rebekah had conceived children by one man, our forefather Isaac, \
 *
 (Please type a command or say `\end')
 * Sunday\vspace{0.1cm} &Review Week 25 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-*
-(Please type a command or say `\end')
-*\end{tabular}
-
-*\end{table}
-
-Overfull \hbox (9.54619pt too wide) detected at line 0
-[][] 
- []
-
-
-*
-(Please type a command or say `\end')
-*\begin{table}[b] \footnotesize
-
-*\begin{tabular}{p{.6in}|p{2.95in}}
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Monday\vspace{1.75cm} &20 For the creation was subjected to futility, not wil
-lingly, but because of him who subjected it, in hope 21 that the creation itsel
-f will be set free from its bondage to corruption and obtain the freedom of the
- glory of the children of God. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Tuesday\vspace{1.75cm} &22 For we know that the whole creation has been groan
-ing together in the pains of childbirth until now. 23 And not only the creation
-, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as w
-e wait eagerly for adoption as sons, the redemption of our bodies. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Wednesday\vspace{1.75cm} &24 For in this hope we were saved. Now hope that is
- seen is not hope. For who hopes for what he sees? 25 But if we hope for what w
-e do not see, we wait for it with patience. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Thursday\vspace{1.75cm} &26 Likewise the Spirit helps us in our weakness. For
- we do not know what to pray for as we ought, but the Spirit himself intercedes
- for us with groanings too deep for words. 27 And he who searches hearts knows 
-what is the mind of the Spirit, because the Spirit intercedes for the saints ac
-cording to the will of God. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Friday\vspace{1.75cm} &28 And we know that for those who love God all things 
-work together for good, for those who are called according to his purpose. 29 F
-or those whom he foreknew he also predestined to be conformed to the image of h
-is Son, in order that he might be the firstborn among many brothers. \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Saturday\vspace{1.75cm} &Review Week 17 \\
-
-*\hline
-
-*
-(Please type a command or say `\end')
-* Sunday\vspace{0.1cm} &Review 23 \\
 
 *\hline
 
@@ -3743,10 +3891,8 @@ Overfull \hbox (9.54619pt too wide) detected at line 0
 
 *
 (Please type a command or say `\end')
-*\FloatBarrier
-[12]
 *\end{document}
-(./texput.aux) 
+[12] (./texput.aux) 
 Here is how much of TeX's memory you used:
  2419 strings out of 495061
  31988 string characters out of 1182620
@@ -3754,10 +3900,10 @@ Here is how much of TeX's memory you used:
  5594 multiletter control sequences out of 15000+50000
  6140 words of font info for 23 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 26i,10n,32p,397b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on texput.pdf (12 pages, 93727 bytes).
+ 26i,10n,32p,397b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on texput.pdf (12 pages, 94450 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -9,7 +9,8 @@
 \setlength{\columnsep}{.5in}
 
 \begin{document}
-[%- FOR page IN pages -%] [% IF page.0 %]
+[%- FOR page IN pages -%]
+\FloatBarrier [% IF page.0 %]
 \begin{table}[t] \footnotesize
 \begin{tabular}{p{.6in}|p{2.95in}}
 \hline
@@ -49,7 +50,5 @@
 -%]
 \end{tabular}
 \end{table}
-[% END %] 
-\FloatBarrier
-[%- END %]
+[% END %] [%- END %]
 \end{document}

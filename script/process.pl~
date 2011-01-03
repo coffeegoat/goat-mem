@@ -55,7 +55,7 @@ my $count=1;
 for ($count = 0; $count <= $numberofweeks/2; $count++) {
   push (@firsthalfarray, $results[$count]);
 #  print "$count \n";
-  push (@firsthalfarray, $results[$numberofweeks - $count]);
+  push (@firsthalfarray, $results[$numberofweeks - $count -1]);
  }
 
 
