@@ -1,18 +1,19 @@
 \documentclass[twocolumn]{article}
-\usepackage[margin=.25in, paperwidth=8.5in, paperheight=11in]{geometry}
+\usepackage[top=0.25in, bottom=.25in, left= .25in, right= .25in]{geometry}
 \usepackage[utf8x]{inputenc}
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{alltt}
 \usepackage{placeins}
-\setlength{\columnseprule}{1pt}
-\setlength{\columnsep}{.5in}
+%\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{.25in}
 
 \begin{document}
+\centering
 [%- FOR page IN pages -%]
 \FloatBarrier [% IF page.0 %]
 \begin{table}[t] \footnotesize
-\begin{tabular}{p{.6in}|p{2.95in}}
+\begin{tabular}{p{.25in}|p{3.125in}}
 \hline
 [%
    INCLUDE 'week.tt'
@@ -21,8 +22,9 @@
 \end{tabular}
 \end{table}
 [% END %] [% IF page.1 %]
+\centering
 \begin{table}[b] \footnotesize
-\begin{tabular}{p{.6in}|p{2.95in}}
+\begin{tabular}{p{.25in}|p{3.125in}}
 \hline
 [%
    INCLUDE 'week.tt'
@@ -31,8 +33,9 @@
 \end{tabular}
 \end{table}
 [% END %] [% IF page.2 %]
+\centering
 \begin{table}[t] \footnotesize
-\begin{tabular}{p{.6in}|p{2.95in}}
+\begin{tabular}{p{.25in}|p{3.125in}}
 \hline
 [%
    INCLUDE 'week.tt'
@@ -41,8 +44,9 @@
 \end{tabular}
 \end{table}
 [% END %] [% IF page.3 %]
+\centering
 \begin{table}[b] \footnotesize
-\begin{tabular}{p{.6in}|p{2.95in}}
+\begin{tabular}{p{.25in}|p{3.125in}}
 \hline
 [%
    INCLUDE 'week.tt'

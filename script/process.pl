@@ -20,13 +20,13 @@ my $data = decode_json(join '', <$fh>);
 my $tt = Template->new({ INCLUDE_PATH => "$FindBin::Bin/../tt" });
 
 my @weekdays = qw(
-   Monday\vspace{1.75cm}
-   Tuesday\vspace{1.75cm}
-   Wednesday\vspace{1.75cm}
-   Thursday\vspace{1.75cm}
-   Friday\vspace{1.75cm}
-   Saturday\vspace{1.75cm}
-   Sunday\vspace{0.1cm}
+   Mon\vspace{1.75cm}
+   Tues\vspace{1.75cm}
+   Wed\vspace{1.75cm}
+   Thur\vspace{1.75cm}
+   Fri\vspace{1.75cm}
+   Sat\vspace{1.75cm}
+   Sun\vspace{0.1cm}
 );
 
 my @results;
