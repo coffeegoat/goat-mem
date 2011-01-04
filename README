@@ -1,5 +1,8 @@
 README
 
+Commit VI 04JAN2011
+Finallized formatting, looks pretty sweet, print out double sided, cut each page in half horizontally, fold each half page in half vertically, nest lower portion of page in upper portion, nest each consecuative page in previous, staple.  Awesome..
+
 Commit V 03JAN2011
 Found the error, was a extra 1 in my for loop, hooray, only works correctly when database is in multiples of 8 weeks.  Adjusted database
 
